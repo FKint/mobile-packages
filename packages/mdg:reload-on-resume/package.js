@@ -1,8 +1,8 @@
 Package.describe({
-  name: "mdg:reload-on-resume",
+  name: "fkint:reload-on-resume",
   summary: "On Cordova, only allow the app to reload when the app is resumed.",
   version: '1.0.4',
-  git: "https://github.com/meteor/mobile-packages"
+  git: "https://github.com/FKint/mobile-packages"
 });
 
 Package.on_use(function (api) {
